@@ -21,16 +21,19 @@ div {
 form {
   text-align: left;
   padding: 25px;
+  margin-top: 25px;
 }
 
 label,
 input {
   width: 100%;
-  margin: 15px auto;
+  margin: 20px auto;
 }
 
 label {
   color: white;
+  font-size: 25px;
+  font-style: oblique;
 }
 
 input {
