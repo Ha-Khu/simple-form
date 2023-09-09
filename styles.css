@@ -3,3 +3,16 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  background-color: #e3d5ca;
+}
+
+div {
+  border-radius: 12px;
+  background-color: #d5bdaf;
+  height: 500px;
+  width: 500px;
+  margin: 100px auto;
+  text-align: center;
+}
