@@ -5,14 +5,35 @@
 }
 
 body {
-  background-color: #e3d5ca;
+ 
 }
 
 div {
   border-radius: 12px;
-  background-color: #d5bdaf;
-  height: 500px;
-  width: 500px;
+  background-color: rgba(6, 20, 112, 0.4);
+  height: 700px;
+  width: 700px;
   margin: 100px auto;
   text-align: center;
+}
+
+form {
+  text-align: left;
+  padding: 25px;
+}
+
+label,
+input {
+  width: 100%;
+  margin: 15px auto;
+}
+
+label {
+  color: white;
+}
+
+input {
+  padding: 15px;
+  border-radius: 8px;
+  border: none;
 }
