@@ -26,7 +26,8 @@ form {
 
 label,
 input,
-select {
+select,
+textarea {
   width: 100%;
   margin: 30px auto;
 }
