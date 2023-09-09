@@ -25,7 +25,8 @@ form {
 }
 
 label,
-input {
+input,
+select {
   width: 100%;
   margin: 20px auto;
 }
@@ -40,4 +41,9 @@ input {
   padding: 15px;
   border-radius: 8px;
   border: none;
+}
+
+select {
+  padding: 15px;
+  border-radius: 10px;
 }
