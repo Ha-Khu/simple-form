@@ -11,7 +11,7 @@ body {
 div {
   border-radius: 12px;
   background-color: rgba(6, 20, 112, 0.4);
-  height: 700px;
+  height: 100%;
   width: 700px;
   margin: 100px auto;
   text-align: center;
@@ -46,4 +46,15 @@ input {
 select {
   padding: 15px;
   border-radius: 10px;
+}
+
+input#radio-btn {
+  margin-top: 30px;
+  padding: 0;
+  width: 40px;
+}
+
+label#radio-btns {
+  font-size: 22px;
+  font-family: 'Courier New', Courier, monospace;
 }
