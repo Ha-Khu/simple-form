@@ -6,6 +6,8 @@
 
 body {
  background-image: url(/images/planet-8215532_1280.png);
+ background-repeat: no-repeat;
+ background-size: cover;
 }
 
 div {
